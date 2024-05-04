@@ -1,0 +1,1 @@
+This app is designed to function as a proof of concept for an interactive swiping story board between a variety of images, voice narrations and of course, text.
